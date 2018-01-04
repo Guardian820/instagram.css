@@ -16,7 +16,7 @@ Go to [Demo page](https://picturepan2.github.io/instagram.css/) to copy the HTML
 
 ```
 <figure class="filter-[filter-name]">
-  <img src="assets/img/instagram-example.jpg">
+  <img src="assets/img/instagram.jpg">
 </figure>
 ```
 
@@ -49,6 +49,7 @@ Go to [Demo page](https://picturepan2.github.io/instagram.css/) to copy the HTML
 - Moon `filter-moon`
 - Nashville `filter-nashville`
 - Perpetua `filter-perpetua`
+- Poprocket `filter-poprocket`
 - Reyes `filter-reyes`
 - Rise `filter-rise`
 - Sierra `filter-sierra`
@@ -69,7 +70,7 @@ You can custom Instagram.css by modifing SASS `.scss` files located in `src` fol
 
 ## Browser support
 
-Devices.css uses [Autoprefixer](https://github.com/postcss/autoprefixer) to make most styles compatible with earlier browsers. For best compatibility, these browsers are recommended:
+Instagram.css uses [Autoprefixer](https://github.com/postcss/autoprefixer) to make most styles compatible with earlier browsers. For best compatibility, these browsers are recommended:
 
 - Chrome (18+)
 - Microsoft Edge (13+)
@@ -79,4 +80,4 @@ Devices.css uses [Autoprefixer](https://github.com/postcss/autoprefixer) to make
 
 Built with ♥ by [Yan Zhu](https://twitter.com/picturepan2). Feel free to submit a pull request. Help is always appreciated.
 
-Devices.css is completely free to use. If you enjoy it, please consider [donating via Paypal](https://www.paypal.me/picturepan2) for the further development. ♥ 
+Instagram.css is completely free to use. If you enjoy it, please consider [donating via Paypal](https://www.paypal.me/picturepan2) for the further development. ♥ 
